@@ -15,7 +15,7 @@ This is Fully Clone of Netflix Landing Page Using HTML, CSS and JAVASCRIPT.
 ## Watch The Live [Demo]() 👀
 
 
-## Contact Me
+## Contact Me 📩
 
 For Contact, email paulsantanu968@gmail.com
 
