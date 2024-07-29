@@ -2,6 +2,7 @@
 # Netflix Landing Page Clone 💻
 This is Fully Clone of Netflix Landing Page Using HTML, CSS and JAVASCRIPT.
 
+## Watch The Live [Demo](https://netflix-landing-page-by-santanupaul.netlify.app/) 👀
 
 ## Screenshots 📸
 ![App Screenshot 1](https://github.com/user-attachments/assets/2ea7a4d0-d83c-44f9-9313-04c7a6a22285)
@@ -11,9 +12,6 @@ This is Fully Clone of Netflix Landing Page Using HTML, CSS and JAVASCRIPT.
 ![App Screenshot 5](https://github.com/user-attachments/assets/9ac10239-e128-498c-b92c-4c0d46082289)
 ![App Screenshot 6](https://github.com/user-attachments/assets/7bb77e14-e9e9-4395-acee-4c61b7bf059b)
 ![App Screenshot 7](https://github.com/user-attachments/assets/4c8b830f-99c1-4b7c-a4cc-491c1e6e8483)
-
-## Watch The Live [Demo](https://netflix-landing-page-by-santanupaul.netlify.app/) 👀
-
 
 ## Contact Me -> paulsantanu968@gmail.com 📩
 
