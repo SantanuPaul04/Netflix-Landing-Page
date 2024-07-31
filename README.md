@@ -15,3 +15,6 @@ This is Fully Clone of Netflix Landing Page Using HTML, CSS and JAVASCRIPT.
 
 ## Contact Me -> paulsantanu968@gmail.com 📩
 
+## <p>Made with ❤️ by <a href="https://github.com/SantanuPaul04" target="_blank">Santanu Paul</a></p>
+
+
